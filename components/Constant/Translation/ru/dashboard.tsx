@@ -1,0 +1,71 @@
+export default {
+    Languagetitle: "RUSSIAN",
+  // ********** dashboard Sidebar ********
+    backto:"вернуться к ",
+    dashboard: "приборная доска",
+    Setasprimary: "Сделать основным",
+    Edit: "Редактировать",
+    Delete: "Удалить",
+    AddACard: "Добавить карту",
+    MonthlyScripture: "ЕЖЕМЕСЯЧНОЕ ПИСАНИЕ",
+    DateOfOperation: "Дата операции",
+    SUM: "СУММА",
+    DOCUMENT: "ДОКУМЕНТ",
+    discount: "Дисконт",
+    create: "Создать",
+    Settings: "Настройки",
+    Accounts: "Аккаунты",
+    Payments: "Оплаты",
+    Paymentmethod: "Платежный метод",
+    paymenthistory: "История платежей",
+    goout: "выйти",
+    
+    // ********** dashboard NavBar ********
+    Administratorrights: "Праваадминистратора",
+    DownloadQRcodes: "Скачать QR-коды",
+    Statistics: "Статистика",
+    Available: "Доступно",
+    Buyacard: "Купить карту",
+    General: "Общая",
+    Newcards: "Новые карты",
+    Aweek: "Неделя",
+    Month: "Месяц",
+    Quarter: "Квартал",
+    Year: "Год",
+    datefrom: "Дата с", 
+    Dateto: "Дата до",
+    Bypoints: "По точкам",
+    Pointsofsale: "Точки продаж",
+    January: "Январь",
+    February: "Февраль",
+    March: "Март",
+    April: "Апрель",
+    May: "Май",
+    June: "Июнь",
+    July: "Июль",
+    August: "Август",
+    September: "Сентябрь",
+    October: "Октярь",
+    November: "Ноябрь",
+    December: "Декабрь",
+    
+    // ********** dashboard Setting ********
+    
+    Accountsetup: "Настройка аккаунта",
+    Organizationdata: "Данные об организации",
+    commondata: "Общие данные",
+    Nameofthecompany: "Имя компании",
+    Daresell: "Дерзай-продавай",
+    UNP: "УНП",
+    Legaladdress: "Юридический адрес",
+    Nekrasova: "ул.Некрасова 19, стр.4",
+    Contactdetails: "Контактные данные",
+    Telephone: "Телефон",
+    Safety: "Безопасность",
+    CurrentPassword: "Текущий пароль",
+    Changepassword: " Изменить пароль"
+
+    
+
+
+}
